@@ -1,0 +1,15 @@
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\bin\Debug\net6.0\Test001_Hello.exe
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\bin\Debug\net6.0\Test001_Hello.deps.json
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\bin\Debug\net6.0\Test001_Hello.runtimeconfig.json
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\bin\Debug\net6.0\Test001_Hello.dll
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\bin\Debug\net6.0\Test001_Hello.pdb
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\obj\Debug\net6.0\Test001_Hello.csproj.AssemblyReference.cache
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\obj\Debug\net6.0\Test001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\obj\Debug\net6.0\Test001_Hello.AssemblyInfoInputs.cache
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\obj\Debug\net6.0\Test001_Hello.AssemblyInfo.cs
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\obj\Debug\net6.0\Test001_Hello.csproj.CoreCompileInputs.cache
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\obj\Debug\net6.0\Test001_Hello.dll
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\obj\Debug\net6.0\refint\Test001_Hello.dll
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\obj\Debug\net6.0\Test001_Hello.pdb
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\obj\Debug\net6.0\Test001_Hello.genruntimeconfig.cache
+C:\Users\Фунт\Desktop\New_lessen_C\Test001_Hello\obj\Debug\net6.0\ref\Test001_Hello.dll
